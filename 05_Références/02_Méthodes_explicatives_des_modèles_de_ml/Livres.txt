@@ -1,0 +1,21 @@
+Livres :
+
+
+
+ - " Interpretable Machine Learning : A Guide for Making Black Box Models Explainable"  
+	
+	https://christophm.github.io/interpretable-ml-book/
+
+
+
+
+- "Limitations of Interpretable Machine Learning Methods"
+
+	https://compstat-lmu.github.io/iml_methods_limitations/
+
+
+
+
+- "Explanatory Model Analysis : Explore, Explain, and Examine Predictive Models. With examples in R and Python"
+
+	https://ema.drwhy.ai/
